@@ -1,0 +1,214 @@
+/*colores
+morado fondo:#4818FF;
+celeste:#26C6FF;
+azul palido:#0084B2;
+
+azul oscuro: #29375C;
+amarillo:#ECE571;
+celeste: #A7DCEA;
+
+
+*/
+
+
+body{
+	margin:0;
+	padding:0;
+	font-family: 'PT Sans', sans-serif;
+	color: white;
+
+}
+
+/*nav*/
+
+
+.navbar-inverse{
+	background-color:white;
+	border-color:#0084B2;
+
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color:#29375C;
+	text-align: center;
+}
+
+#titulonav{
+	color: #29375C;
+	margin-top: 5%;
+	margin-left: 10%;
+	font-family: 'PT Sans', sans-serif;
+}
+
+li:hover{
+	background-color: #29375C;
+
+
+}
+.navbar-toggle{
+	background-color:#29375C;
+	border: #29375C;
+}
+.navbar-inverse .navbar-toggle:hover{
+	background-color: #29375C;
+}
+.navbar-inverse .navbar-collapse{
+	border-color: white;
+}
+.navbar-collapse{
+	background-color: white;
+}
+
+
+/* textos*/
+
+
+
+h1{
+	font-family: 'Righteous', cursive;
+	margin-top: 60px;
+}
+
+
+
+#peque{
+	font-size: 95%;
+}
+
+
+
+#sinmargen{
+	margin-top: 0px;
+}
+
+/*seccion sobre comar*/
+
+.home{
+	background-image: url(../img/fondo2.jpg);
+	color: white; 
+	background-color:#29375C;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	width: 100%;
+
+}
+
+#blanco{
+	color: white;
+	margin-top: 5%;
+}
+#link{
+	color: white;
+
+}
+p{
+	font-size: 20px;
+	margin-bottom: 3%;
+}
+
+#titulouno{
+	margin-top: 5%;
+	
+}
+
+#logo {
+    width: 60%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#logo2 {
+    width: 80%;
+    margin-top: 60px;
+    margin-bottom: 5px;
+}
+/*
+#textoyo{
+	background-color: rgba(0, 0, 0, 0.3);
+}
+*/
+
+#servicios{
+	background-color: #29375C;
+
+}
+
+#icoport{
+	font-size: 500%;
+
+}
+
+#icoport2{
+	font-size: 300%;
+
+}
+
+#margen{
+	margin-bottom: 20%;
+}
+
+
+/*trabajos emergencias*/
+
+.emergencia{
+	background-color:#95a5a6;
+}
+
+
+#rota{
+	width: 60%;
+	margin-bottom: 5%;
+}
+
+#bano{
+	width: 70%;
+
+}
+.margen{
+	margin-bottom: 10%;
+}
+/*video responsive*/
+
+
+.remodelacion{
+	background-color:#29375C;
+	color: white;
+}
+
+#espacio {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#auto{
+	width: 80%;
+}
+
+/*seccion regadio*/
+#regadio{
+	background-color: #95a5a6;
+}
+
+#nosotros{
+	background-color:#29375C;
+	color: white;
+
+}
+
+/*seccion contacto*/
+#contacto{
+	background-color:white;
+	color:#29375C; 
+}
+
+
+#icon{
+	color:#29375C;
+	font-size: 300%;
+	cursor: pointer;
+			
+}
+
+#peque2{
+	font-size: 120%;
+}
